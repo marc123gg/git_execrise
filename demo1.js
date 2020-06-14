@@ -3,6 +3,6 @@ function Alert_test({
 });
 
 function change({
-	alert('fourty')
+	alert('five')
 });
 
